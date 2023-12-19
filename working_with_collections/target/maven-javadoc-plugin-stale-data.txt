@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+-source
+'21'
+-sourcepath
+'C:/Users/USER/Desktop/working_with_collections/src/main/java'
+-author
+-bottom
+'Copyright &#169; 2023. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/USER/Desktop/working_with_collections/target/site/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'working_with_collections 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'working_with_collections 1.0-SNAPSHOT API'
+org.example
+C:\Users\USER\Desktop\working_with_collections\src\main\java = 1702929471860
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\allclasses-index.html = 1703021094926
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\allpackages-index.html = 1703021094932
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\copy.svg = 1703021095008
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\element-list = 1703021094832
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\help-doc.html = 1703021094993
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\index-all.html = 1703021094971
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\index.html = 1703021094983
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\link.svg = 1703021095012
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\member-search-index.js = 1703021094943
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\module-search-index.js = 1703021094935
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\overview-tree.html = 1703021094907
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\package-search-index.js = 1703021094937
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\script.js = 1703021095004
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\search-page.js = 1703021095023
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\search.html = 1703021094978
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\search.js = 1703021095017
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\stylesheet.css = 1703021094999
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\tag-search-index.js = 1703021094946
+C:\Users\USER\Desktop\working_with_collections\target\site\apidocs\type-search-index.js = 1703021094939
